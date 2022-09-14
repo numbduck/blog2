@@ -1,0 +1,34 @@
+.write{
+    margin-top: 200px;
+    flex: 9;
+}
+.writeForm{
+    margin: 100px 100px 100px 400px;
+    
+}
+.writeText{
+    margin-left: 400px;
+    height: 900px;
+    width: 1200px;
+    font-size: 35px;
+    padding: 10px;
+}
+.writeTitle{
+    font-size: 40px;
+    margin-right: 200px;
+    padding: 10px 250px 10px 10px;
+}
+.publishButton{
+    background-color:teal;
+    color: aliceblue;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+.publishButton:hover{
+    color: black;
+}
+.writeFile{
+    font-size: 25px;
+}

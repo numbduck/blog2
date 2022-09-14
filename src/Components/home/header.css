@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    background-color:#E9DAC1 ;
+    
+}
+
+.headerTitle{
+    font-size: 70px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    z-index: 100;
+    padding-top: 160px;
+    padding-bottom: 370px;;
+    color:black;
+   
+}
+.headerImage{
+    width: 99.9%;
+    height: 650px;
+    object-fit: cover;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 12px;
+}

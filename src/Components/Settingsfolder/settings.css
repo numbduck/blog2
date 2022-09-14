@@ -1,0 +1,73 @@
+.settings{
+    flex:9;
+}
+.settingsWrapper{
+    margin-top: 250px;
+   
+}
+.settingsTitle{
+    font-size: 50px;
+    margin-right: 500px;
+    
+}
+.settingsDelete{
+    font-size: 30px;
+    font-style: italic;
+    color: tomato;
+    cursor: pointer;
+}
+.settingsDelete:hover{
+    font-size: 32px;
+}
+.settingsPP{
+    margin: 100px 200px;
+    display: flex;
+    justify-content: center;
+}
+.settingsImage{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
+    border-style: solid;
+    margin-right: 50px;
+}
+.settingsPPicon{
+    font-size: 50px;
+    color:rgb(67, 155, 155);
+    cursor: pointer;
+
+}
+.settingsPPicon:hover{
+font-size: 55px;
+}
+
+.settingsForm{
+    display: flex;
+    flex-direction: column;
+    
+}
+.settingsItem{
+    font-size: 40px;
+    margin-top: 20px;
+    color: brown;
+}
+.settingsItem2{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    border-style:none;
+    border-bottom: 1px solid rgb(160, 152, 152);
+    max-width: 1000px;
+}
+.button{
+    font-size: 40px;
+    align-self: center;
+    margin-top: 20px;
+    color: aliceblue;
+    background-color: teal;
+    border-radius: 5px;
+    border-style: 1px solid;
+    padding:5px;
+    cursor: pointer;
+}
